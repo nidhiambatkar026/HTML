@@ -1,0 +1,21 @@
+table{
+    border-collapse: collapse;
+    width: 50%;
+    margin-bottom: 20px;
+    
+}
+
+td,th{
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #0056b3;
+}
+
+button{
+    background-color: #0056b3;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
